@@ -1,0 +1,11 @@
+h1 {
+    color: #9b59b6;
+}
+a.btn-primary {
+    background-color: #9b59b6;
+    border-color: #9b59b6;
+}
+
+.bg-primary {
+    background-color: #9b59b6 !important;
+}

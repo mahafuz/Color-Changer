@@ -1,0 +1,11 @@
+h1 {
+    color: #EAB543;
+}
+a.btn-primary {
+    background-color: #EAB543;
+    border-color: #EAB543;
+}
+
+.bg-primary {
+    background-color: #EAB543 !important;
+}

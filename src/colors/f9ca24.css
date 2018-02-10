@@ -1,0 +1,11 @@
+h1 {
+    color: #f9ca24;
+}
+a.btn-primary {
+    background-color: #f9ca24;
+    border-color: #f9ca24;
+}
+
+.bg-primary {
+    background-color: #f9ca24 !important;
+}

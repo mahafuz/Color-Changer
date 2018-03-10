@@ -1,7 +1,7 @@
 ## Color Changer
 
-Color Changer is a solution that aims to be super easy for developers for the template demo.
-So, everyone can test and check your demo web template in various logo, color, pattern easily.
+Color Changer is a solution that aims to be super easy for developers for the templates demo.
+So, everyone can check the demo of web templates with various logo, color, and patterns easily.
 
 ## [Demo:](https://asrmahfuz.github.io/Color-Changer/)
 

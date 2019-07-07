@@ -3,7 +3,7 @@
 Color Changer is a solution that aims to be super easy for developers for the templates demo.
 So, everyone can check the demo of web templates with various logo, color, and patterns easily.
 
-## [Demo:](https://coder-kid.github.io/Color-Changer/)
+## [Demo:](https://mr-mahfuz.github.io/Color-Changer/)
 
 ## How to use
 
